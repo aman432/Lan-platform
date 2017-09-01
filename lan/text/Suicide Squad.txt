@@ -1,0 +1,11 @@
+<html>
+<body>
+<span style="font-size:19px;color:grey"><b>Fantasy/Crime film</b></span>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:red">[ <i class="fa fa-warning"></i>&nbsp;&nbsp;Bad Print Quality ]</span><br/>
+<i class="fa fa-star " style="color:yellow;"></i>
+<b>6.7</b>/10<br/>
+Figuring they're all expendable, a U.S. intelligence officer decides to assemble a team of dangerous, incarcerated supervillains for a top-secret mission.
+</br>
+<b>Click below to watch:</b><br/>
+<a href="redirect_movie.php?s=Suicide Squad" target="_blank" class="btn btn-warning btn-warning-outline waves-effect waves-light"><i class="fa fa-play right"></i>Watch</a>
+</body>
+</html>

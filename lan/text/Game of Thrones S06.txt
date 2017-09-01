@@ -1,0 +1,9 @@
+<html>
+<body>
+<span style="font-size:19px;color:grey"><b>American drama series</b></span><br/>
+<i class="fa fa-star " style="color:yellow;"></i>
+<b>9.5</b>/10<br/>
+While a civil war brews between several noble families in Westeros, the children of the former rulers of the land attempt to rise up to power. 
+<br/>
+<b>Click below to watch:</b><br/>
+<a href="redirect_movie.php?s=Band of Brothers" target="_blank" class="btn btn-primary btn-warning waves-effect waves-light"><i class="fa fa-play right"></i>S06<sup style="font-size:7px;top:-10px;">NEW</sup></a>

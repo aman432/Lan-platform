@@ -1,0 +1,11 @@
+<html>
+<body>
+<span style="font-size:19px;color:grey"><b>Drama film/Sport</b></span><br/>
+<i class="fa fa-star " style="color:yellow;"></i>
+<b>8.1</b>/10<br/>
+In the mid-1970s, charismatic English playboy James Hunt (Chris Hemsworth) and Austrian perfectionist Niki Lauda (Daniel Brühl) share an intense rivalry in Formula 1 racing.
+</br>
+<b>Click below to watch:</b><br/>
+<a href="http://172.16.40.151/redirect_movie.php?s=Rush" target="_blank" class="btn btn-warning btn-warning-outline waves-effect waves-light"><i class="fa fa-play right"></i>Watch</a>
+</body>
+</html>

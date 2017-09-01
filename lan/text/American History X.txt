@@ -1,0 +1,10 @@
+<html>
+<body>
+<span style="font-size:19px;color:grey"><b>Coming of age/Indie film</b></span><br/>
+<i class="fa fa-star " style="color:yellow;"></i>
+<b>8.6</b>/10<br/>
+A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did after he was sent to prison for three years.</br>
+<b>Click below to watch:</b><br/>
+<a href="http://172.16.40.151/redirect_movie.php?s=American History X" target="_blank" class="btn btn-warning btn-warning-outline waves-effect waves-light""><i class="fa fa-play right"></i>Watch</a>&nbsp;&nbsp;&nbsp;&nbsp;
+</body>
+</html>

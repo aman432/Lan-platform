@@ -1,0 +1,19 @@
+<html>
+<body>
+<span style="font-size:19px;color:grey"><b>American drama series</b></span><br/>
+<i class="fa fa-star " style="color:yellow;"></i>
+<b>9.4</b>/10<br/>
+A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine, with his former student, in order to secure his family's financial future.
+<br/>
+<b>Available Seasons:</b><br/>
+<a href="redirect_video.php?s=Breaking Bad&sea=S01" target="_blank" class="btn btn-primary btn-etc waves-effect waves-light"><i class="fa fa-play right"></i>S01</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="redirect_video.php?s=Breaking Bad&sea=S02" target="_blank" class="btn btn-primary btn-etc waves-effect waves-light"><i class="fa fa-play right"></i>S02</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,11 @@
+<html>
+<body>
+<span style="font-size:19px;color:grey"><b>American drama series</b></span><br/>
+<i class="fa fa-star " style="color:yellow;"></i>
+<b>9.1</b>/10<br/>
+Police officers and the people associated with them are forced to face dark secrets that are revealed during the investigation of certain homicide cases.</br>
+<b>Click below to watch:</b><br/>
+<a href="redirect_video.php?s=True Detective&sea=S01" target="_blank" class="btn btn-primary btn-etc waves-effect waves-light"><i class="fa fa-play right"></i>Season 1</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="redirect_video.php?s=True Detective&sea=S02" target="_blank" class="btn btn-primary btn-etc waves-effect waves-light"><i class="fa fa-play right"></i>Season 2</a>
+</body>
+</html>

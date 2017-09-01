@@ -1,0 +1,10 @@
+<html>
+<body>
+<span style="font-size:19px;color:grey"><b>American drama miniseries</b></span><br/>
+<i class="fa fa-star " style="color:yellow;"></i>
+<b>9.5</b>/10 <span style="font-size:19px;color:grey">(Most Rated)</span><br/>
+The story of Easy Company, 506th Regiment of the 101st Airborne Division from 1942 to the end of World War II. A collection of fifty portraits illustrated by archive footage and recounted in voice.<br/>
+<b>Available Seasons:</b><br/>
+<a href="redirect_video.php?s=Band of Brothers&sea=S01" target="_blank" class="btn btn-primary btn-etc waves-effect waves-light"><i class="fa fa-play right"></i>Season 1</a>
+</body>
+</html>

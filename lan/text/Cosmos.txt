@@ -1,0 +1,11 @@
+<html>
+<body>
+<span style="font-size:19px;color:grey"><b>American television series</b></span><br/>
+<i class="fa fa-star " style="color:yellow;"></i>
+<b>9.4</b>/10<br/>
+"Family Guy" creator Seth MacFarlane, in a departure from the type of material he is best known for, pays homage to Carl Sagan's award-winning and iconic "Cosmos" with this docuseries.</br>
+<b>Click below to watch:</b><br/>
+
+<a href="redirect_video.php?s=Cosmos&sea=S01" target="_blank" class="btn btn-primary btn-etc waves-effect waves-light"><i class="fa fa-play right"></i>Watch</a>
+</body>
+</html>

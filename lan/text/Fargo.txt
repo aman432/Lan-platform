@@ -1,0 +1,14 @@
+<html>
+<body>
+<span style="font-size:19px;color:grey"><b>American comedy series</b></span><br/>
+<i class="fa fa-star " style="color:yellow;"></i>
+<b>9</b>/10
+
+<br/>
+
+Lester Nygaard, an insurance salesman, lives a life of monotony with his uninteresting wife. He meets Lorne Malvo who convinces him to tag along in search of a killer.</br>
+<b>Available Seasons:</b><br/>
+<a href="redirect_video.php?s=Fargo&sea=S01" target="_blank" class="btn btn-primary btn-etc waves-effect waves-light"><i class="fa fa-play right"></i>Season 1</a>
+
+</body>
+</html>

@@ -1,0 +1,11 @@
+<html>
+<body>
+<span style="font-size:19px;color:grey"><b>Drama film</b></span><br/>
+<i class="fa fa-star " style="color:yellow;"></i>
+<b>8.4</b>/10<br/>
+Following his expulsion from boarding school, Rohan returns home to his strict and uncompromising father and Arjun, a 6-year-old half brother nobody bothered to tell him about.
+</br>
+<b>Click below to watch:</b><br/>
+<a href="http://172.16.40.151/redirect_movie.php?s=Udaan" target="_blank" class="btn btn-warning btn-warning-outline waves-effect waves-light"><i class="fa fa-play right"></i>Watch</a>
+</body>
+</html>

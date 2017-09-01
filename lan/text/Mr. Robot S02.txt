@@ -1,0 +1,12 @@
+<html>
+<body>
+<span style="font-size:19px;color:grey"><b>American drama series</b></span><br/>
+<i class="fa fa-star " style="color:yellow;"></i>
+<b>8.8</b>/10<br/>
+A mysterious anarchist recruits a young computer programmer who is too hesitant to make friends and connects to people by hacking them.</br>
+<b>Click below to watch:</b><br/>
+
+<a href="redirect_video.php?s=Mr. Robot&sea=S02" target="_blank" class="btn btn-warning btn-warning-outline waves-effect waves-light" ><i class="fa fa-play right"></i>Season 2<sup style="font-size:7px;top:-10px;">NEW</sup</a>
+<
+</body>
+</html>

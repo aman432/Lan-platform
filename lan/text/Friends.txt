@@ -1,0 +1,15 @@
+<html>
+
+<body>
+<span style="font-size:19px;color:grey"><b>American sitcom</b></span><br/>
+<i class="fa fa-star " style="color:yellow;"></i>
+<b>9.0</b>/10<br/>
+Follow the lives of six reckless adults living in Manhattan, as they indulge in adventures which make their lives both troublesome and happening.
+<br/>
+<b>Available Seasons:</b><br/>
+<a href="redirect_video.php?s=Friends&sea=S01" target="_blank" class="btn btn-primary btn-etc waves-effect waves-light"><i class="fa fa-play right"></i>S01</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="redirect_video.php?s=Friends&sea=S02" target="_blank" class="btn btn-primary btn-etc waves-effect waves-light"><i class="fa fa-play right"></i>S02</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+</body>
+</html>

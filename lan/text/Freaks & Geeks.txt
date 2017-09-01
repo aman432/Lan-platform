@@ -1,0 +1,8 @@
+<html>
+<body>
+<span style="font-size:19px;color:grey"><b>American comedy series</b></span><br/>
+<i class="fa fa-star " style="color:yellow;"></i>
+<b>8.9</b>/10<br/>
+A misfit high-school student and his pals are probably destined to become new media millionaires, but right now they're stuck in school, where all the girls are a foot taller and bullies terrorize the gym class.</br>
+<b>Click below to watch:</b><br/>
+<a href="redirect_video.php?s=Freaks and Geeks&sea=S01" target="_blank" class="btn btn-primary waves-effect waves-light"><i class="fa fa-play right"></i>Watch</a>

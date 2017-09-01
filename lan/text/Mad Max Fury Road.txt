@@ -1,0 +1,11 @@
+<html>
+<body>
+<span style="font-size:19px;color:grey"><b>Fantasy/Science fiction film</b></span><br/>
+<i class="fa fa-star " style="color:yellow;"></i>
+<b>8.1</b>/10<br/>
+Years after the collapse of civilization, the tyrannical Immortan Joe enslaves apocalypse survivors inside the desert fortress the Citadel. 
+</br>
+<b>Click below to watch:</b><br/>
+<a href="http://172.16.40.151/redirect_movie.php?s=Mad Max Fury Road" target="_blank" class="btn btn-warning btn-warning-outline waves-effect waves-light"><i class="fa fa-play right"></i>Watch</a>
+</body>
+</html>

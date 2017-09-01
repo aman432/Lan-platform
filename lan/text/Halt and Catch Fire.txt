@@ -1,0 +1,13 @@
+<html>
+<body>
+<span style="font-size:19px;color:grey"><b>American drama series</b></span><br/>
+<i class="fa fa-star " style="color:yellow;"></i>
+<b>8.2</b>/10
+
+<br/>
+It's the early 1980s, and the spirit of innovation in personal computing is about to catch fire. A visionary, an engineer and a prodigy who risk everything to realize their vision of building a computer.</br>
+<b>Available Seasons:</b><br/>
+<a href="redirect_video.php?s=Halt and Catch Fire&sea=S01" target="_blank" class="btn btn-primary btn-etc waves-effect waves-light"><i class="fa fa-play right"></i>Season 1</a>
+
+</body>
+</html>

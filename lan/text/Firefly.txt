@@ -1,0 +1,8 @@
+<html>
+<body>
+<span style="font-size:19px;color:grey"><b>American comedy series</b></span><br/>
+<i class="fa fa-star " style="color:yellow;"></i>
+<b>9.1</b>/10<br/>
+Set 500 years in the future after a universal civil war, the crew of a small transport spaceship takes any job so long as it puts food on the table. </br>
+<b>Click below to watch:</b><br/>
+<a href="redirect_video.php?s=Firefly&sea=S01" target="_blank" class="btn btn-primary waves-effect waves-light"><i class="fa fa-play right"></i>Watch</a>

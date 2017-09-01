@@ -1,0 +1,15 @@
+<html>
+<body>
+<span style="font-size:19px;color:grey"><b>American comedy series</b></span><br/>
+<i class="fa fa-star " style="color:yellow;"></i>
+<b>8.5</b>/10<br/>
+Set amidst the high-tech world of the Silicon Valley in USA, the series revolves around the struggles of six programmers who are trying to make a mark in the big, bad world of programming.<br/>
+<b>Available Seasons:</b><br/>
+<a href="redirect_video.php?s=Silicon Valley&sea=S01" target="_blank" class="btn btn-primary btn-etc waves-effect waves-light"><i class="fa fa-play right"></i>Season 1</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="redirect_video.php?s=Silicon Valley&sea=S02" target="_blank" class="btn btn-primary btn-etc waves-effect waves-light"><i class="fa fa-play right"></i>Season 2</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="redirect_video.php?s=Silicon Valley&sea=S03" target="_blank" class="btn btn-primary btn-warning waves-effect waves-light"><i class="fa fa-play right"></i>Season 3<sup style="font-size:7px;top:-10px;">NEW</sup></a>
+</body>
+</html>

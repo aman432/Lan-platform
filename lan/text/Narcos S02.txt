@@ -1,0 +1,11 @@
+<html>
+<body>
+<span style="font-size:19px;color:grey"><b>American television series</b></span><br/>
+<i class="fa fa-star " style="color:yellow;"></i>
+<b>9.0</b>/10<br/>
+Netflix takes on the infamous Medellin drug cartel in "Narcos," which follows the rise and fall of Colombian kingpin Pablo Escobar and the Drug Enforcement Agency agents hunting him.
+</br>
+<b>Click below to watch:</b><br/>
+<a href="redirect_video.php?s=Narcos&sea=S02" target="_blank" class="btn btn-warning btn-warning-outline waves-effect waves-light"><i class="fa fa-play right"></i>Season 2<sup style="font-size:7px;top:-10px;">NEW</sup></a>
+</body>
+</html>

@@ -1,0 +1,12 @@
+<html>
+<body>
+<span style="font-size:19px;color:grey"><b>Canadian-Irish drama series</b></span><br/>
+<i class="fa fa-star " style="color:yellow;"></i>
+<b>8.6</b>/10<br/>
+The story of Norse hero, Ragnar Lothbrok, who rises up to become a fearless warrior and command the Viking tribes.</br>
+<b>Click below to watch:</b><br/>
+<a href="http://172.16.40.151/redirect_video.php?s=Vikings&sea=S01" target="_blank" class="btn btn-primary btn-etc waves-effect waves-light"><i class="fa fa-play right"></i>Season 1</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://172.16.40.151/redirect_video.php?s=Vikings&sea=S02" target="_blank" class="btn btn-primary btn-etc waves-effect waves-light"><i class="fa fa-play right"></i>Season 2</a>
+
+</body>
+</html>

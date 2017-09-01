@@ -1,0 +1,12 @@
+<html>
+<body>
+<span style="font-size:19px;color:grey"><b>American television series</b></span><br/>
+<i class="fa fa-star " style="color:yellow;"></i>
+<b>8.8</b>/10<br/>
+Jimmy McGill, a struggling lawyer in Albuquerque, tries to make a decent living even as he gets involved with criminals.</br>
+<b>Click below to watch:</b><br/>
+<a href="http://172.16.40.151/redirect_video.php?s=Better Call Saul&sea=S01" target="_blank" class="btn btn-primary btn-etc waves-effect waves-light"><i class="fa fa-play right"></i>Season 1</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+</body>
+</html>
